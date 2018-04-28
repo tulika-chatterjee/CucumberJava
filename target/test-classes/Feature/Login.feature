@@ -6,7 +6,7 @@ Feature: LoginFeature
     Given I am on login page
     And I pass the login details as following
       | username | password      |
-      | admin    | adminpassword |
+      | admin    | adminpasswordm |
     When I hit the login button
     Then I sould see the home page of platform
 
