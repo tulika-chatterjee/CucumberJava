@@ -438,9 +438,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Feature__Login_(1) - 2018.04.11 at 20h 59m 55s.xml">
-      <configuration name="Feature: Login (1)" configurationId="CucumberJavaRunConfigurationType" />
-    </history-entry>
     <history-entry file="Feature__Login_(1) - 2018.04.11 at 21h 17m 16s.xml">
       <configuration name="Feature: Login (1)" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
@@ -467,6 +464,9 @@
     </history-entry>
     <history-entry file="All_Features_in__Feature_(1) - 2018.04.15 at 20h 01m 01s.xml">
       <configuration name="All Features in: Feature (1)" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="All_Features_in__Java - 2018.04.28 at 14h 25m 40s.xml">
+      <configuration name="All Features in: Java" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
